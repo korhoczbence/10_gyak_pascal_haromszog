@@ -1,0 +1,22 @@
+﻿h2 {
+    text-align: center;
+    color: #9a12bc;
+}
+
+h3.cim {
+    color: #180770;
+}
+
+p.kerdes {
+    font-size: 12px;
+}
+
+p.valasz {
+    font-weight: bold;
+    font-size: 11px;
+}
+
+p.szerzo {
+    padding-left: 40px;
+    font-style: italic;
+}
